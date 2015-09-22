@@ -15,13 +15,13 @@
 		
 	<body>
 		
-		
+		<div class="container-fluid">	
 
 			<?php
 				include("vue/navbar.php");
 			?>
 
-		<div class="container-fluid">	
+		
 
 			<div class="row">
 				<div class="col-md-4">
