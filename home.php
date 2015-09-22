@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<!--<meta http-equiv="refresh" content="3">-->
+		<meta http-equiv="refresh" content="3">
 		<meta charset="utf-8">
 		<title>Ovrclock Official Website</title>
 		<link rel="stylesheet" href="vue/css/navbar.css">
